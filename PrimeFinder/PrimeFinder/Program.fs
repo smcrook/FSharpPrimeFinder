@@ -2,7 +2,7 @@
 // See the 'F# Tutorial' project for more help.
 
 
-let testList = [2..100]
+let testList = [2..1000]
 
 
 let rec sieve = function
